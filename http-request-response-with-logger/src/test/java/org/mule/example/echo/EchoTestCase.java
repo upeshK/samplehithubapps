@@ -45,6 +45,7 @@ public class EchoTestCase extends FunctionalTestCase
         assertFalse(result.getPayload() instanceof NullPayload);
         assertEquals("/" + MESSAGE, result.getPayloadAsString());
         System.out.println("Test1");
+        System.out.println("Test2");
     }
 
 }
