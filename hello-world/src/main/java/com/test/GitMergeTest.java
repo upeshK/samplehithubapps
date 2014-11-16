@@ -20,6 +20,7 @@ package com.test;
 public class GitMergeTest {
 	
 	public static void main(String[] args) {
+		System.out.println("Added to test branch");
 		
 	}
 
