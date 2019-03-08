@@ -1,1 +1,5 @@
-/hello-world-1
+/.project
+/.classpath
+/mule-project.xml
+/target/
+/.settings/
